@@ -1,0 +1,7 @@
+*.log      
+#  all file with the extension of '.log' will be ignored now.
+
+# my all ignoring file .gitignore will be ignored now.
+dir/
+#if i have 'dir' named directory then it will also will be ignored.
+secondcached.txt
